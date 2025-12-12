@@ -1,0 +1,13 @@
+
+> onspace-app@1.0.0 lint
+> expo lint
+
+env: load .env
+env: export EXPO_PUBLIC_SUPABASE_URL EXPO_PUBLIC_SUPABASE_ANON_KEY
+
+D:\Android apps\EduAssit\app\index.tsx
+   1:35  warning  'useEffect' is defined but never used   @typescript-eslint/no-unused-vars
+  11:3   warning  'Dimensions' is defined but never used  @typescript-eslint/no-unused-vars
+
+Γ£û 2 problems (0 errors, 2 warnings)
+
